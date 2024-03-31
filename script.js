@@ -18,7 +18,6 @@ const BASE_URL =
         if(currCode==="INR" && select.name==="to"){
             newoptions.selected="selected"
         }
-
         
         select.append(newoptions);
     }
